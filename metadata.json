@@ -1,0 +1,6 @@
+{
+  "name": "GrandStay Hotel Management System",
+  "description": "Comprehensive hotel management system for rooms, bookings, guests, check-in/out, staff, payments, reports, and real-time dashboard operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
