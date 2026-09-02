@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/grandstay-hotel-management-system/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
